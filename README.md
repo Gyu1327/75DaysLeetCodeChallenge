@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Gyu1327/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
